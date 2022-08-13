@@ -1,0 +1,43 @@
+* {
+    max-width: 700px;
+    margin: auto;
+}
+
+div {
+    border-radius: 3px;
+}
+
+table, tr, td, th {
+    border: 1.5px solid;
+}
+
+.stuff {
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 75%;
+    height: 1000px;
+}
+
+p,li {
+    font-family: 'sans-serif';
+}
+
+.head {
+    font-size: 20px;
+}
+
+#name {
+    font-family: sans-serif;
+    float: right;
+    margin-top: 10px;
+    margin-right: 4%;
+}
+
+.work-experience {
+    width: 100%;
+}
+
+.work-experience .heading {
+    text-align: left;
+}
